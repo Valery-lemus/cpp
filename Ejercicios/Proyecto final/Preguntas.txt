@@ -1,0 +1,463 @@
+"Geografía"
+ 
+1-¿Cual es el oceano mas grande del mundo?
+a) Oceano Pacifico
+b) Océano Índico
+c) Océano Atlántico
+
+2-¿Cuál es el país más grande del mundo?
+a) China
+b) Rusia
+c) India
+
+3-¿En qué continente se encuentra Surinam?
+a) Africa
+b) America del Sur
+c) Oceania
+d) Europa
+
+4-¿Cuál es la nación más pequeña del mundo?
+a) Andorra
+b) Monaco
+c) El Vaticano
+d) Ninguna
+
+5-¿Cuál es la única ciudad que está en dos continentes distintos?
+a) Moscu
+b) Estambul 
+c) Berlin
+d) Ninguna
+
+6-¿Cuál es la ciudad italiana conocida como «la novia del mar»
+a) Roma
+b) Florencia
+c) Venecia
+d) Milan 
+
+7-¿Cuál es la cascada más alta del mundo?
+a) El Salto del Ángel
+b) Cataratas del Niáraga
+c) Cataratas de Iguazú
+d) Cataratas del Paraiso
+
+8-¿Cuál es la capital de Pakistán?
+a) Bagdag
+b) Islamabad
+c) Marrakech
+d) Ninguna
+       
+9-¿La bandera de Estonia consiste en 3 franjas Horizontales de color?
+a) Rojo, blanco y azul
+b) Azul, negro y blanco
+c) Amarillo, verde y rojo
+d) Rojo, azul y verde 
+
+ 
+10-¿Cuál es el nombre del río más largo del mundo?
+a) Río Nilo
+b) Río Amazonas
+c) Río Danubio
+d) Ninguna de las anteriores
+  
+11-¿Cuál es el país más poblado de la tierra?
+a) España
+b) China
+c) Rusia
+d)Estados Unidos
+
+12-¿Cuál es la ciudad de los rascacielos?"<<endl;
+a) Tokio
+b) Dubai
+c) Hong Kong
+d) New York
+
+13-¿En qué país se encuentra ubicada la Casa Rosada?
+a) Argentina
+b) Chile
+c) Mexico
+d) Paraguay
+
+cout<<"14-¿Cuál es la capital de Nicaragua?"<<endl;
+cout<<"a) Brasil
+cout<<"b) Ninguna
+cout<<"c) Managua
+
+15-¿Cuál es la segunda montaña más alta del mundo?
+cout<<"a) K2
+cout<<"b) K1
+cout<<"c) K3
+cout<<"d) K5
+
+
+	"Historia"
+
+1-¿Cuándo terminó la II Guerra Mundial?
+a) 1945
+b) 1947
+c) 1943
+d) 1955
+
+2-¿En qué año llegó Cristobal Colón a América?
+a) 1429
+b) 1492
+c) 1592
+d) 1548
+      
+3-¿Quién es el padre del psicoanálisis
+a) Sigmund Freud
+b) Carl Gustav Jung
+c) Skinner
+d) Mark
+
+      
+ 4-¿Quién era el general de los Nazis en la Segunda Guerra Mundial?
+a) Benito Mussolini
+b) Adolf Hitler
+c) Heinrich Himmle
+d) Carl Gustav Jung
+ 
+5-¿Cuál es el libro sagrado de los musulmanes?
+a) La Biblia
+b) El Talmud
+c) El Corán
+d) Ninguna
+
+      
+6-¿En qué país se usó la primera bomba atómica?
+a) Rusia
+b) Estados Unidos
+c) Japon
+d) Ucrania
+      
+7-¿Cuál es el idioma más antiguo que pervive en Europa?
+a) Vasco
+b) Ingles
+c) Frances
+d) Italiano
+      
+8-¿Cómo se llama la primera mujer que viajó al espacio?
+a) Valentina Tereshkova
+b) Alexandra Tereshkova
+c) Amanda Tereshkova
+d) Marie Tereshkova
+
+9-¿Cuál fue el primer hombre en ir a la luna?
+a) Louis Armstrong
+b) Neil Armstrong
+c) Michael Armstrong
+
+10-¿En qué guerra participó Juana de Arco?
+a) Guerra de la independencia francesa
+b) Guerra de los 100 años
+c) Guerra Civil Española
+d) Ninguna
+
+      
+¿De qué año es la primera constitución española conocida como «La Pepa»?
+a) 1812
+b) 1835
+c) 1978
+d) 1888
+      
+12-¿Quién fue el primer emperador romano?
+a)César Augusto
+b) Julio Cesar
+c) Marco Aurelia
+d) Mario Tulio
+
+      
+13-¿En qué isla murió Napoleón
+a) Sicilia
+b) Santa Elena
+c) Creta
+d) Ninguno
+
+14-¿Qué año solo tuvo 355 días?
+a) 1582
+b) 1615
+c) 1823
+d) Ninguno
+
+15-¿Qué Libro es el mas leido?
+a) El Diccionario
+b) La Enciclopedia
+c) La biblia
+d) Ninguno
+
+"Ciencia"
+1-¿Cuál es el elemento químico más abundante en la corteza terrestre?
+a) Oxígeno
+b) Nitrógeno
+c) Carbono
+d) Helio
+
+2-¿Cómo se denomina al resultado de una multiplicación?
+a) Múltiplo
+b) Resultado
+c) Producto
+d) Residuo
+
+3-¿A cuánto equivale el numero Pi?
+a) 3.1614
+b) 3.1416
+"c) 3.416
+d) 3.1461
+
+4-¿Cuál fue el primer metal que emplearon los seres humanos?"a) Bronce"<<endl;
+b) Acero
+c) Cobre
+d) Ninguno
+
+5-¿Cuál es el primero de los números primos?
+a) 0
+"b) 1
+c) 2
+d) 4
+
+
+6-¿Cómo se denomina al tipo de triángulo que tiene sus tres lados iguales?
+a) Isósceles
+b) Equilátero
+c) Recto
+d) Ninguno"
+
+7-¿Cuál es el primer elemento de la Tabla periódica?
+	a) Helio
+	b) Argón
+	c) Hidrógeno
+	d) Oxigeno
+	
+	  
+8-¿Cómo se le denomina al centro de un átomo?
+a) Electrón
+b) Núcleo
+) Protón
+
+	¿Cuál es el gas que se encuentra en mayor cantidad en el aire que respiramos?
+a) Nitrógeno
+b) Oxígeno
+c) Carbono
+ d) Helio
+	   
+	   "10-¿Cuál es el símbolo químico del oro
+		  
+11-¿Qué es el cobalto?
+a) Un mineral
+b) Un vegetal
+	c) Un Animal
+	d) Un producto
+	
+	12-¿Qué se le agrega al hierro para hacer acero?
+	a) Oxígeno
+	b) Carbono
+	c) Nitrógeno
+	d) Ninguno
+	
+
+13-¿En qué parte del cuerpo se produce la insulina?
+a) Hígado
+b) Pulmones
+c) Páncreas
+d) Ninguno
+
+14-¿Qué rama de la biología estudia a los animales?
+a) Fauna
+b) Medicina
+c) Teologia
+d) Ninguno
+
+15-¿Cómo se llama el proceso por medio del cual las plantas obtienen su alimento
+"a) Biosíntesos
+b) Fotosíntesis
+c) Luminosíntesis
+d) Ninguno
+
+"Arte"
+1-¿Quién escribió La Odisea?
+a) Homero
+"b) Virgilio
+c) Cervantes
+d) Amaya
+
+2-¿Cuál es la obra más importante de la literatura en español?
+a) El Principito
+	b) Don Quijote de la Mancha
+	c) Cien años de soledad
+	d) Amor en tiempos de colera
+	
+	3-¿Quién pintó el famoso cuadro La última cena?
+	a) Rembrandt
+	b) Velazquez
+	c) Leonardo da Vinci
+	d) Miguel Angelo
+	
+	
+	4-¿Cómo se llama el Himno Nacional de Francia?
+	a) La Internaciona
+	b) La Marsellesa
+	c) La solitaria
+	d) La incondicional
+	
+	5-¿A qué se denomina séptimo arte?
+	a) Pintura
+	b) Escultura
+	c) Cine
+	d) Musica
+	
+	6-¿Qué es un melómano?
+	a) Un amante de la música
+	b) Un amante del cine
+	c) Un amante de los cómics
+	d) Ninguno
+	
+	7-¿Cómo se llama la estrofa poética que está conformada por 10 versos de 8 sílabas cada uno?
+	a) Décima espinela
+	b) Decasílabo
+	c) Decasílabo octogonal
+	d) Decasilabo pentagonal
+	
+	8-¿Cuáles son las notas musicales?
+	a) Do, Re, Mi
+	b) Do, Re, Mi, Sol, La, Si, Do"
+	c) Do, Re, Mi, Fa, Sol, La, Si
+	d) Do, Re, Sol, La, Si
+	   
+	   
+	   9-¿Quién escribió Cien años de soledad?
+	a) Gabriel García Márquez
+	b) Mario Vargas Llosa
+	c) Camilo José Cela
+	d) Rafael Amador
+	
+	10-¿Quién pintó La noche estrellada?
+	a) Rembrandt
+	b) Vincent van Gogh
+	c) Velazquez
+	d) Miguel Angelo
+	
+	11-¿Quién es denominado el Rey del Rock and Roll en Estados Unidos?
+	a) Bruce Springsteen
+	b) Michael Jackson
+	c) Elvis Presley
+d) Camilo
+	
+	12-¿Cuál es el nombre de la artista mexicana conocida como «la Doña»?
+	a) María Félix
+	b) Paulina Rubio
+	c) Frida Kahlo
+	d) Marie Mendez
+	
+	13-¿En qué año murió Kurt Cobain?
+	a) 1996
+	b) 1994
+	c) 1998
+	d) 1995
+	
+	14-¿Quién compuso Los Conciertos de Brandeburgo?
+	a) Mozart
+	b) Beethoven
+	c) Bach
+	d) Ninguno
+	
+	15-¿Quién pinto la noche estrellada?
+	a) Miguel Angel
+	b) Claude Monet
+	c) Pablo Picasso
+	d) Vincent van Gogh
+	
+	Deporte
+	
+	1-¿Cuánto dura un partido de fútbol?
+	a) 90 minutos repartidos en dos partes de 45 minutos cada una
+	b) 90 minutos repartidos en tres partes de 30 minutos cada una
+	c) 90 minutos
+	d) 95 minutos
+	
+	2-¿Cuándo se celebró el primer mundial de fútbol?
+	a) El 15 de julio de 1930 en Uruguay
+	b) El 10 de julio de 1935 en Uruguay
+	c) El 13 de julio de 1930 en Uruguay
+	d) Ninguno
+	
+	3-¿Qué selección de fútbol ha ganado más Mundiales?
+	a) Brasil
+	b) Uruguay
+	c) Panama
+	d) Ninguno
+	
+	4-¿Cuántos jugadores tiene un equipo de fútbol en el campo de juego?
+	a) 12
+	b) 11
+	c) 10
+	d) 15
+	
+	4-¿Cuántas Copas del Mundo ha ganado Italia?
+	a) 4 Copas del Mundo
+	b) 5 Copas del Mundo
+	c) 8 Copas del Mundo
+	d) 3 Copas del Mundo
+	
+	5-¿En qué año debutó Pep Guardiola como entrenador del FC Barcelona?
+	a) 17 de junio de 2009
+	b) 15 de junio de 2008
+	c) 17 de junio de 2008
+	d) 17 de junio de 2010
+	
+	6-¿Cómo se llama la anotación de un tanto en fútbol americano?"
+	a) Anotacion
+	b) Hong roll
+	c) Ninguno
+	d) El touchdown
+	
+	7-¿Cada cuántos años se celebran los Juegos Olímpicos?
+	a) Cada 5 años
+	b) Cada 4 años
+	c) Cada 6 años
+	d) Cada 2 años 
+	
+	8-¿Cuál es el deporte más popular en la India?
+	"a) Futbol
+	b) Basquetball
+	c) Voleibol
+	d) El críquet 
+	
+	9-¿Cuántos cubos coloreados hay en el Cubo de Rubik?
+	a) Cuenta con seis colores uniformes
+	b) Cuenta con seis colores Iguales
+	c) Cuenta con nueve colores uniformes
+	d) Cuenta con seis colores
+	
+	10-¿Cuál es el deporte nacional en Japón?
+	a) Karate
+	b) Artes Marciales
+	c) El sumo
+	d) El críquet 
+	
+	11-¿Qué 3 tipos de armas se utilizan en esgrima?
+	a) Espada, florete y sable
+	b) Espada y sable
+	c) Espada
+	d) Espada y florete
+	
+	12-¿Cuál es la lesión más frecuente entre los corredores?
+	a) El tobillo del corredor
+	b) La rodilla del corredor
+	c) El brazo del corredor
+	d) Ninguno
+	
+	13-¿Cuánto tiempo se recomienda que pase entre un entrenamiento y una comida?
+	a) 3 horas
+	b) 5 horas
+	c) 2 horas
+	d) Ninguno
+	
+	14-¿Cuántos Km de distancia mide una maratón?
+	a) 41.85 km
+	b) 42.16 km
+	c) 43.77 km
+	"d) 43.45 km
+	
+	15-¿Cuáles son los cinco colores del anillo de los Juegos Olímpicos?
+	a) Azul, rojo, amarillo, verde y negro
+	b) Azul, rojo, amarillo, verde y violeta
+	Azul, rojo, amarillo, naranja y verde
